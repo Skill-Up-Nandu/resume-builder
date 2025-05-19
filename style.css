@@ -39,6 +39,7 @@ body{
 }
 .all-heading{
    padding-bottom: 0.8rem;
+   color: #241b72;
 }
 .font{
     font-family: Georgia, 'Times New Roman', Times, serif;
@@ -54,4 +55,6 @@ body{
 .indent{
     padding-left: 2rem;
 }
-
+#name{
+    color   : #241b72;
+}
