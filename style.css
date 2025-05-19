@@ -48,8 +48,10 @@ body{
     font-weight: bold;
 }
 .education{
-    
     padding-bottom: 1rem;
     padding: 0;
+}
+.indent{
+    padding-left: 2rem;
 }
 
