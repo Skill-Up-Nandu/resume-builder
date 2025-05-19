@@ -29,12 +29,10 @@ body{
     display: flex;
     justify-content: center;
     font-size: 0.85rem;
+    font-style: italic ;
 }
 .contact-heading{
     font-weight: bold;
-}
-.contact-heading , .contact-info {
-    font-style: italic ;
 }
 .line-height{
     line-height: 1.2rem;
@@ -44,5 +42,14 @@ body{
 }
 .font{
     font-family: Georgia, 'Times New Roman', Times, serif;
+    text-transform: capitalize;
+}
+.highlight{
+    font-weight: bold;
+}
+.education{
+    
+    padding-bottom: 1rem;
+    padding: 0;
 }
 
