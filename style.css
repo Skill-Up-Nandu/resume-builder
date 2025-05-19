@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: 'Poppins', sans-serif;
+    background-color: #f0f0f0;
+    padding-left: 15rem;
+    padding-right: 15rem;
+}
+.border{
+    padding: 1rem 0 1rem 0;
+    border: solid #000;
+    border-width: 0 0 0.5px 0;
+}
+.header{
+    justify-content: center;
+    text-align: center;
+    border-width: 0 0 3px 0;
+    padding-bottom: 1rem;
+}
+#name{
+    font-size: 2rem;
+    padding-top: 1rem ;
+}
+.contact{
+    color: grey;
+    display: flex;
+    justify-content: center;
+    font-size: 0.85rem;
+}
+.contact-heading{
+    font-weight: bold;
+}
+.contact-heading , .contact-info {
+    font-style: italic ;
+}
+.line-height{
+    line-height: 1.2rem;
+}
+.all-heading{
+   padding-bottom: 0.5rem;
+}
+.font{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
